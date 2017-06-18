@@ -1,3 +1,7 @@
+html, body{
+	font-family: Arial, sans-serif;
+}
+
 header{
 	background-color: #99ccff;
 	padding: 40px;
@@ -9,7 +13,7 @@ h1{
 	color: white;
 }
 
-head img{
+header img{
 	border-radius: 150px;
 	width: 500px;
 	border: 20px solid #ffcc66;
